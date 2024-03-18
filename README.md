@@ -1,3 +1,3 @@
 # Notes on Data Degrowth
 
-This is the only thing that grows in this project
+This is the only thing allowed to grow in this project
