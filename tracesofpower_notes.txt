@@ -1,0 +1,32 @@
+Vesna Manojlovic
+	internet governance timeline
+	data is the new oil
+	global north-south
+	scientist rebellion timeline
+	comparison between graph of internet usage growth and temperatures
+	delay is the new denial (discourses of climate delay, researchgate)
+	multistake model of internet governance
+	the internet ted crusz fantasy vs ?
+	measuring bgp in 2023 have we reached peak ipv4 apnic.net
+	ipv4 address exhaustion wikipedia
+	ripe ncc
+	labs.ripe.net/sustainability
+	ripe.net/raci
+	sustainable subsea network maps
+	network operators
+	ietf & iab
+	e-impact group
+	exchangepoint.net/internetgovernanceroadmap
+	wiki.technic.nl ai is ecocide user becha
+	authentic engine (all technical decisions are political)
+	organised students for radical climate action (go download the zine)
+	call to consider squirrels when u develop internet policies (non-human creatures)
+	ripe.net towards climate justice in tech
+	no internet on a dead planet
+	varia.zone/8m
+
+Marloes de Valk
+	A Tale of Two Datacenters
+	elektra > surplus energy sold to the market
+	bits&bytes and ... paprika
+	

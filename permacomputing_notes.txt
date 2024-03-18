@@ -1,0 +1,212 @@
+Practices of Digital resilience and permacomputing
+
+translocal people's club pipas(?)
+
+- habdo
+	privilege and responsibility to be critical, rewild technology, embrace tensions
+
+- lukas
+	> correspondence.works
+	functional alternatives + aesthetic dimension (how they look, how they feel)
+	> The temporary autonomous zone, Hakim Bey, 1991 - a collectively run space negotiated and mantained by a group of people (e.g. squats), microrevolts
+	> Transcoding the digital: how metaphors matter in new media, marianne van den boomen, 2015 - language used for digital technology (helps understanding complex concepts but it's not neutral)
+	> a feminist server manifesto
+	self-host as a repsonse to the issue of ownership?!
+	> myold.computer
+	these things probably dont solve anything (servers not a longterm solution), the value is in the language that we develop to scrutinize these problems, its about testing out these things
+
+- ola
+	> olabonati.com
+	materiality / nonmateriality, politics of design (looking past the surface of devices and infrastructure), whacky visions of tech futures, prermacomputing principles
+	data walk in science park and flevopark: pollutes landscape with data centers
+	> acid clouds, niels schrader - resource-intensive and earthbound properties of data centers
+	maximalism / minimalism
+	accelerationist's vision of the future
+	> controlwars.org - + permacomputing principles
+
+- brendan howell & michal klodner
+	> wintermute.org
+	rustic computing
+	brendan: artist and reluctant engineer, early studies were in engineering but smthing smelled off, engineering as a practice is desistent to dark stuff(?), media art is also complicit in engagin in tech maximalism aesthetics
+	> staying with the trouble
+	different approach in networking, networking with a plant, engaged with technique but in contact with nature, artificial landscape in background
+
+- habdo
+	theres almost a shared desire of finding alternatives
+	what is a good alternative? idfferent portrayal of alternatives 
+	to begin proposing alternatives we have to understand what we have at hand (cultures of use, computational machinery, mechanism of concealment)
+	how can we sustainably propose alternatives that free us from monolithic big tech
+	> node9.org
+	field guide for practice
+
+- marloes
+	a tale of two datacenters
+	why these alternatives matter so much?
+	> the hmm
+	talks about data center in a polder, map from 1658, wiringermeerpolder (1940) ready for use. 1944 nazis blew up the dyke, the polder was inundated but then was dry again
+	they were hotbanks, they made 3 equally sized villages, small agrarian, agriculture main activity.
+	2005: farmlands transformed into construction lots. agriport
+	2006: ecwenergy was created, cause to heat greenhouses ecwenergy.nl/elektra
+	duijves, P bits&bytes and ... paprika, parthenon data centre
+	> microsoft - biomimicry for blending data centers in landscape
+	secrecy was broken, then public negative opinion, in 2024 there will be data long overdue
+	> bleu255.com(?) /damaged(?)
+
+- habdo
+	comedy of error, places the consumer in the face of extractive practices
+
+- michal klodner
+	> node9.lab
+	forest care and permacomputing
+	varia little tech library server, solar powered low-tech magazine
+	> pimoroni.com, enviro+, citizen science maps, raspberry 0, environm. sensors
+	microclimate
+	> Forest sorrow (2023), dir barbora klocova - deforestation by warming climate, in some countries desertification, spruce monoculture in unsuitable conditions, industrial forestry failure, slow intervention
+	dense planting not enough light therefore no regrow of plant species
+	> from a dry field to a lush food forest in 18 months, Youtube
+	> livinglabs@node9.org
+	> raspicam + liquidsoap stream, Odroid N2 server
+	> Nikola Brabcova, waterlily tea performance
+	> transmitting:debugging digital healing zine 2022
+	care of information
+	> Al Yakubouskaya, Reminiscence
+	detach media art from urban contet, server farm processing, fomo... reimagine rural social sustainability
+
+- habdo
+	swahili quote: doesnt matter if elephants are fighting or making love, the grass suffers - promise of the alternative but ateodd landscape suffers
+	- marloes: 
+		freedom of information act request provided the sources for data + local politicians who invited media attention. breaking the silence was going to backfire. Blades of grass can do something: local journalism and activism
+	the moment it becomes public the whole equation changes, you cant fight something you cant see
+	- marloes:
+		alternatives need to be visible as well
+	resilience, what were your learning about digital resilience?
+	- michal:
+		making a balance between tech and mining sources & nature system. how to intervene in a natural system to extract information without "stepping on the grass" [resilience as resistance of system to disruptive interventions]
+	ethics of care? giving up convenience for sustainability
+	how does residual heating work?
+	- marloes:
+		nl needs greenhouses, gas turbines for sustaining, massive surplus, >tenet, sold to the data centers
+	invitations: try and understand underlying principles in both research & what kind of things you can take in your own work
+	
+- raaf (unbinare)
+	poverty and praxis, anarchist, hacker, reverse engineer
+	Unbinare, reverse engineering lab, reduce increasing of ewaste through reverse engineering
+	planned obsolescence, inability to repair devices, abandonment of software support
+	what is e-waste? electronic waste. global ewaste statistics.
+	curiosity and inquisiveness, no such thing as illegal knowledge (anarchism)
+	problem with peer-review, highly educated specialists review highly educated specialists
+	poverty or absence of prosperity in social-and-economic conditions
+	> unbinare.be
+	> OOISTER
+	overcoming limitations where there is a hierarchy of dominance, commons we have lost
+	ecological problems are deeply humanitarian and interpersonal not technological
+	informal sector is activity done at will without any form of control by the broader industry at large. not formal sector.
+	local >> global, small scale >> large scale
+	externalizing agency
+	poverty exposes dynamics of privilege
+	lack of independent disposition to tech recurseive mechanism
+	experience of poverty informs design of tools ++++++
+	unconventional design, rejected in academic context, for poverty in solidarity
+
+- danny (varia)
+	varia is a collective of 13 people, lot work in art design education, software dev, sysadmins, sushi chef, musicians
+	collective approaches to everyday technology
+	non-hierarchical, no board, no president, decisions are slower but horizontal
+	technological dichotomies: smart/dumb, old/new, low/high
+	notions: conditions, frugality, accessibility, transformability, public interest
+	common technology: website. not different from data center just different way
+	formulate critical attitudes and transform them into action by explicitly engaging with technologies; action is more important than theory;
+	> look at phone pic for what they host
+	producing piece of software + idea of care that the software needs to be reliable for those participating in it; not experimenting on parts that needs to be reliable
+	collective approaches: form and maintain a network of practitioners through which we can support each other's practice
+	> alert.org (network is vaster than just varia)
+	provide a space for long-term, sustainable, critical, artistic, ands-on, dialogical learning about everyday technology;
+	dialogical learning! (?)
+	how to figure things out? try keep notes
+	> push to talk partyline; 
+		information bike lane; license free radio as a low-power medium for keeping in touch with each other; 
+		varia as a space is crucial for 1.range of pmr-radio, other local radio broadcasts, a place to recover; 
+		organic growth of a technology, if people want to communicate they need two devices
+	> plaintext partylines;
+		plaintext as a design tool, medium, culture, and methodological constraing
+		understanding plaintext as a possible tool for computational degroth in online communication requires a great deal of prior knowledge
+		bloated js on a website is an issue on your power consumption but it's not easy to get this prior knowledge
+		working with plaintext as a design tool is meticulous work that takes up a lot of time: [UNLEARNING]
+		varia work requires a lot of time for learning: progress is slower, reach is different yet limited, collective space allows to resist having to conform to certain standards of time
+	> octomode: collective editing space for pdf making; ateodd is just a combination of free software tools
+	> SomeTimes
+	> traversal network of feminist servers
+
+
+- ???
+	lot of common ground. focus on collectivity and solidarity, also deeply anarchic approach which tackles the issue of ownership. permaculture has open knowledge way. How would you relate to an anarchist perspective? Education?
+	- danny
+		only with anarchist principles u can do education properly. There's no need to be quick and monetizing time, only then you have time to properly explain what is required to get to some semblance of permacomputing. stop equating time and money
+	- raff
+		solidarity, ? to action, running from a basis of empathy and otgetherness and equality, we are not islands, the more we are in dialogue, the more we give each other space the more we are able to express individual idioysncrasis and interact with one another for common benefit
+	how did u build ghana network?
+	- raff
+		2021, e-waste world conference in frankfurt. Lot og gov agencies talking about AI vision techniques for finding working electronics in waste streams, or mgmt processes. How to extract "value". There were a few hackers in ghana with hacker spaces
+	audrey lorde, master tools cannot dismantle the master's house. what are your methods for making new tools?
+	- danny
+		i work from my own perspective first, digital accessibility is very important. practical problemsolving, what is the least wasteful way to address that problem?
+		> contrast checker
+	- raff
+		limited budget: constraint
+		start without any existing tool available. repetitive process, any tool we happen to improvise we modify it and eventually the tool itself will dictate that it needs to be designed
+		the we is small distributed spaces, online collabs
+	necessity is mother of invention, poverty gives a perspective on a system which is not just a disadvantage but a creative space. how do we celebrate poverty?
+	- raff
+		i dont desire to have more resources!
+		limitation inherited to poverty provides spaces that are not existing outside of poverty. freedom from coercion, from financial pressure. we all dont need it.
+	- danny
+		second this position of not desiring more ressources. the services we provide do not desire the same resources as big tech. do not require those. system can be down is sometimes ok, we re not always available.
+
+- ???
+	marie verdeil
+	> marie@verdeil.net, @marie_verdeil, @marieverdeil@post.lurk.org
+	q: how u got started in permacomputing/low-impact design? inspiration and knowledge?
+		a: out of eco-anxiety, exploring local power production, creating mediation tools to understand our energy consumption.
+		did an internship at lowtech mag. energy is one of the big themes we explore.
+		> solar.lowtechmagazine.com; kris de dekker
+	q: to those who dont have a techy bg
+		a: figuring out. bike generator. understand electricity and power, what energy is available and what not. what energy can u power by yourself?
+	q: idea of how fast u need to cycle to charge ur phone?
+		a: complicated question cause it depends. 
+	exploring the internet and its infrastructure within limits: local scale, limited energy, reuse, physicality
+	> what shape is the internet? noahveltman.com
+	q: assumed everything was worse in the past, progress society, old feminism opened the scape for new knowledge
+	immersive humbling low-to-the-ground, subjective camera angle
+		a: anti-manual? what are the principles of currymaking
+	> plantenna (2022)
+	> signal theremin
+	> cantenna
+		a: 95% now. 99% takes more resources than it's worth it. not about questioning reliability. reliability is doing what you say it's doing. expectation design
+	q: its more about integrity. inspiration from people living off grid?
+		a: choose a subculture and study: preppers subculture (people living off-the-grid). post apocalyptic, u get acquainted on negative thought. design of collaborativeness.
+	q: how do u relate to the term permacomputing
+		a: very recently acquainted to it but resonates with things i try to practice. permaculture is understanding of ecosystems from broader view, dependencies, power dynamics and care. very necessary critical approach (low-tech is subjective, what is low and what is high)
+
+- sunjoo lee
+	gardening as electricity making, redesigning human tools that could be used by more-than-human to give us other ways to look; wild life and prototyping-at-the-field
+	> Tree-001 (with seo kim, timm donke); tree-001.com: livestreaming a tree for its lifetime on a website. lifetime of the tree, lifetime of the internet
+	what is a network that is in sync with the tree's life? *what is more compatible with the tree and more earthly?
+	generating electricity from mud?!?!?! power generating mudcells
+	> earth battery; lemon battery: two different metals, galvanic cell
+	microbial fuel cell: same material for anode and cathode, electrogenic bacteria meking electricity, bacteria break down soil and produce electrons
+	shewanella and geobacteria
+	mudcell collection as playful learning
+	carbon felt / graphite felt : host for anaerobic bacteria to live. no corrosive material, stainless steel, bolt & nut. this is for anode and cathode
+	different colors and structures. brewing mud batteries (like kombucha). you have to wait at least 2 days for electricity to be generated
+	living beings in the mud jar, responsiblity as a generatress
+	when i moved jars to exhibition space: temperature change, physically moved
+BATTERY DYING - - - 
+	> workshop at varia
+	check pic on phone
+	situated design (mud cells, can be off grid). understanding local system that enables powercells. makes u touch soils. requires intimate interaction with soil
+	she wants to make an outdoor electricity-generating garden: q-
+		design?
+		selfsustaining?
+		finding plants beneficial to electrogenic bacteria
+		which containers to use
+		power what? what kind o
